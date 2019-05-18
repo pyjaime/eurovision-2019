@@ -1,2 +1,6 @@
-# eurovision-2019
-Análisis de los datos de pasadas ediciones para seguir la final de 2019
+## Análisis de los datos de pasadas ediciones para seguir la final de 2019
+
+Estás viendo la final de Eurovisión (o no). Acaban las actuaciones, y llega la parte más divertida: el momento “douze points”. Si eres fan del Festival (o alguna vez seguiste la votación hace años) recordarás como el comentarista de la gala durante 19 ediciones (el gran Jose Luis Uribarri) acertaba muchas de las puntuaciones gordas de cualquier país (“… y los 12 seguro que van para Rusia!”). ¿Cómo es posible? ¿tan previsible puede llegar a ser todo? ¿es Eurovisión un circo politizado? ¿los países vecinos se votan tanto como parece entre sí? ¿qué peso tiene la emigración en las votaciones? Vamos a intentar responder a algunas de estas preguntas en este proyecto.
+
+* [Notebook:  Análisis de los datos de Eurovisión para seguir la final de 2019 Generales](https://nbviewer.jupyter.org/github/pyjaime/eurovision-2019/blob/master/eurovision-2019.ipynb) [español]
+* [Artículo en Medium: "Qué se esconde detrás de las puntuaciones de Eurovisión"](https://medium.com/metadatos/qu%C3%A9-se-esconde-detr%C3%A1s-de-las-puntuaciones-de-eurovisi%C3%B3n-e6aea301c548) [español]
